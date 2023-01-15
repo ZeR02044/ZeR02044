@@ -140,4 +140,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Special Thank you to @https://github.com/rishavanand  for creating this aawsome tool.<a href="https://profilinator.rishav.dev/" target="_blank"></a></div>
